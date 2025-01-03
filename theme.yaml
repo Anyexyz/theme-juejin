@@ -1,21 +1,21 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-modern-starter
+  name: theme-juejin
 spec:
-  displayName: Modern Starter
+  displayName: Theme Juejin
   author:
-    name: Halo
-    website: https://github.com/halo-dev
-  description: A development starter theme with Vite Ecosystem for Halo
+    name: Anye
+    website: https://www.anye.xyz
+  description: 仿稀土掘金的 Halo 论坛主题
   logo: https://www.halo.run/logo
-  homepage: https://github.com/halo-dev/theme-modern-starter#readme
-  repo: https://github.com/halo-dev/theme-modern-starter
-  issues: https://github.com/halo-dev/theme-modern-starter/issues
-  settingName: "theme-modern-starter-setting"
-  configMapName: "theme-modern-starter-configMap"
+  homepage: https://github.com/Anyexyz/theme-juejin#readme
+  repo: https://github.com/Anyexyz/theme-juejin
+  issues: https://github.com/Anyexyz/theme-juejin/issues
+  settingName: "theme-juejin-setting"
+  configMapName: "theme-juejin-configMap"
   version: "1.0.0"
-  requires: "2.0.0"
+  requires: "2.20.0"
   license:
     - name: "GPL-3.0"
-      url: "https://github.com/halo-dev/theme-modern-starter/blob/main/LICENSE"
+      url: "https://github.com/Anyexyz/theme-juejin/blob/main/LICENSE"

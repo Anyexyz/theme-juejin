@@ -1,6 +1,6 @@
-# Theme Modern Starter
+# Theme Juejin
 
-一个集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
+一个仿稀土掘金的 Halo 论坛主题。
 
 主题开发文档可查阅：<https://docs.halo.run/2.0.0-SNAPSHOT/developer-guide/theme/prepare>
 
@@ -16,11 +16,11 @@
 ## 开发
 
 ```bash
-git clone git@github.com:halo-dev/theme-modern-starter.git ~/halo2-dev/themes/theme-modern-starter
+git clone git@github.com:Anyexyz/theme-juejin.git ~/halo2-dev/themes/theme-juejin
 ```
 
 ```bash
-cd ~/halo2-dev/themes/theme-modern-starter
+cd ~/halo2-dev/themes/theme-juejin
 ```
 
 ```bash
